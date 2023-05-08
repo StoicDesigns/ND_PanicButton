@@ -27,12 +27,9 @@ This will broadcast a Blip on every Department you set, flash for 60 seconds, an
 
 ![exampl3](https://user-images.githubusercontent.com/112611821/231023414-798bcf69-d83c-49eb-8877-07f412513ebb.png)
 
+# Sound Example
 
-https://soundcloud.com/contact-discord-solutions/panicpreview?si=b5f7de9ec3ed4887bf4d1f1da483545e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-
-
-
-
+https://soundcloud.com/contact-discord-solutions/police-priority-tone?si=d9c25dcd295e49179700c73e95f02942&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 
 
