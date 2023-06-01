@@ -2,7 +2,7 @@
 NDCore based panic button to show a Officer in distress with a sound, blip, and waypoint
 
 
-![ND_PanicButton](https://user-images.githubusercontent.com/112611821/231022230-c5863c1a-37cf-43e1-b52e-5b8b725d02c2.png)
+![ND_PanicButton](https://media.discordapp.net/attachments/982855421779922944/1113874486786281592/Sound_Edits_4.png)
 
 
 # Usage
