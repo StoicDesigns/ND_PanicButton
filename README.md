@@ -19,6 +19,7 @@ This will broadcast a Blip on every Department you set, flash for 60 seconds, an
 1) Unpack ZIP File.
 2) Drag and Drop ND_Panic into your [ND] Folder
 3) Navigate to our Server.cfg and add the following ensure that [ND_Core, and ND_Characters] start before this.
+4) You also need https://github.com/TheStoicBear/bears-interact-sound
 
 # Examples
 ![exampl1](https://user-images.githubusercontent.com/112611821/231023406-855947d5-6d9f-42dd-acb5-d7f6503c146d.png)
